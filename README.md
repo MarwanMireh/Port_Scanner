@@ -12,5 +12,5 @@ pip install termcolor
 ## Usage
 
 <center>
-  <img src="https://www.linkpicture.com/q/ddd_11.png" width="500" height="300">
+  <img src="https://www.linkpicture.com/q/ddd_11.png" width="600" height="300">
 </center>
