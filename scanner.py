@@ -57,8 +57,6 @@ def main():
     # Scan ports
     scan(ip, start_port, end_port)
 
-# Print author
-print(termcolor.colored("\nBy mmmx", 'blue'))
 
 # Call main function
 if __name__ == "__main__":
